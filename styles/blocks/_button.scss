@@ -1,0 +1,9 @@
+.button {
+    width: 10rem;
+    height: 2.5rem;
+    font-weight: bolder;
+
+    &--disabled {
+        font-weight: bolder;
+    }
+}
